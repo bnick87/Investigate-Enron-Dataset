@@ -1,0 +1,7 @@
+Project File Explanation: 
+poi_id.py -- File contains code including all classifies used. features added and features selection techniques. 
+Tester.py -- File provided by Udacity to use for testing the poi_id and providing a test set. 
+Bnickell Enron Submission. pdf -- Project write up / analysis 
+ErrorsWithTester.py -- Errors I found when running the code in python 3 as opposed to python 2.7 and the references for the changes made in order to ensure the code can run without errors. 
+pkl files - Created from the use of the tester.py file automatically. 
+Tool folder - holds supporting script files required to run pi_id.py and tester.py 

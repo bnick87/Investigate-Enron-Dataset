@@ -1,0 +1,28 @@
+References: 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html 
+https://stackoverflow.com/questions/53899066/what-could-be-the-reason-for-typeerror-stratifiedshufflesplit-object-is-not 
+http://scikit-learn.org/stable/modules/pipeline.html https://towardsdatascience.com/fine-tuning-a-classifier-in-scikit-learn-66e048c21e65 https://datatofish.com/plot-histogram-python/ https://machinelearningmastery.com/calculate-feature-importance-with-python/ https://scikit-learn.org/0.17/modules/generated/sklearn.grid_search.GridSearchCV.html
+https://github.com/Manish-Kumar94/Identify-Fraud-from-Enron-Email/blob/master/poi_id.py
+https://github.com/jmonterrubio/Identify-Fraud-From-Enron-Email/blob/master/poi_id.py
+https://github.com/napjon/ds-nd/blob/master/p5-introml/final_project/poi_id.py
+https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
+https://github.com/scikit-learn/scikit-learn/issues/1752
+https://medium.com/airbnb-engineering/confidence-splitting-criterions-can-improve-precision-and-recall-in-random-forest-classifiers-ad2d4ba696a4
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://classroom.udacity.com/nanodegrees/nd002-wgu/parts/79fe59b5-205a-4ca3-8358-411a4505accd/modules/8601834a-82d3-41f7-908d-e7fd94f29ca4/lessons/d8cba740-912a-44ed-9261-76e247f80931/concepts/29636285720923
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://www.dezyre.com/recipes/optimize-hyper-parameters-of-decisiontree-model-using-grid-search-in-python
+https://github.com/scikit-learn/scikit-learn/blob/fd237278e/sklearn/base.py#L189
+https://www.stephenchenprojects.com/post_model_tuning.html
+https://www.quora.com/How-do-I-properly-use-SelectKBest-GridSearchCV-and-cross-validation-in-the-sklearn-package-together
+https://www.tomasbeuzen.com/post/scikit-learn-gridsearch-pipelines/
+https://en.wikipedia.org/wiki/Precision_and_recall
+https://stackoverflow.com/questions/37344371/numbered-list-in-python
+https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c#:~:text=Precision%20is%20defined%20as%20the,as%20terrorists%20that%20are%20not.
+https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+
+
+
+“I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken 
+from Websites, books, forums, blog posts, github repositories, etc."
